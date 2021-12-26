@@ -1,9 +1,10 @@
 rr5---sn-9gv7lnes.googlevideo.com
+r2---sn-9gv7lnle.googlevideo.com
+rr5---sn-9gv7lnle.googlevideo.com
 rr3---sn-9gv7enls.googlevideo.com
 r4.sn-9gv7enls.googlevideo.com
 rr3---sn-9gv7ene6.googlevideo.com
 rr5---sn-9gv7ene6.googlevideo.com
-rr5---sn-9gv7lnle.googlevideo.com
 r1---sn-hxugvgxqhm-na2e.googlevideo.com
 rr1---sn-hxugvgxqhm-na2e.googlevideo.com
 r2---sn-hxugvgxqhm-na2e.googlevideo.com
@@ -13,5 +14,3 @@ rr3---sn-hxugvgxqhm-na2e.googlevideo.com
 r4.sn-hxugvgxqhm-na2e.googlevideo.com
 r4---sn-hxugvgxqhm-na2e.googlevideo.com
 rr4---sn-hxugvgxqhm-na2e.googlevideo.com
-tickmatureparties.com
-vidox.net
