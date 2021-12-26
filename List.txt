@@ -2,6 +2,10 @@ r3.sn-9gv7enek.googlevideo.com
 r3---sn-9gv7enek.googlevideo.com
 rr3.sn-9gv7enek.googlevideo.com
 rr3---sn-9gv7enek.googlevideo.com
+rr5.sn-9gv7enek.googlevideo.com
+rr5---sn-9gv7enek.googlevideo.com
+r5.sn-9gv7enek.googlevideo.com
+r5---sn-9gv7enek.googlevideo.com
 r5.sn-9gv7lnez.googlevideo.com
 r5---sn-9gv7lnez.googlevideo.com
 rr5.sn-9gv7lnez.googlevideo.com
